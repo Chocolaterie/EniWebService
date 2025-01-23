@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Premier article",
+        "desc": "Contenu du premier article",
+        "imgPath": "https://avatar.iran.liara.run/public"
+    },
+    {
+        "id": 2,
+        "title": "Deuxieme article",
+        "desc": "Contenu du Deuxieme article",
+        "imgPath": "https://avatar.iran.liara.run/public"
+    },
+    {
+        "id": 3,
+        "title": "Troisieme article",
+        "desc": "Contenu du Troisieme article",
+        "imgPath": "https://avatar.iran.liara.run/public"
+    }
+]
